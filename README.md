@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [Scrumptious](https://bsheps.com/scrumptious), a recipe app with a grocery list builder. [See repo.](https://github.com/bsheps/scrumptious)
-- 🌱 I’m currently learning **C** for fun by reading [``The C Programming Language``](https://en.wikipedia.org/wiki/The_C_Programming_Language) by K&R💡 and completing the exercises. [See repo.](https://github.com/bsheps/c-programming-lanuage-2nd-edition)
+- 🌱 I’m currently learning **C** for fun by reading [``The C Programming Language``](https://en.wikipedia.org/wiki/The_C_Programming_Language) by K&R💡 and completing all exercises. [See repo.](https://github.com/bsheps/c-programming-lanuage-2nd-edition)
 
 <!--
 **bsheps/bsheps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
