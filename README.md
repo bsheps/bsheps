@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 👯 check me out at: https://bsheps.com
-- 🔭 I’m currently working on [Scrumptious](https://bsheps.com/scrumptious), a recipe app with a grocery list builder. [See repo.](https://github.com/bsheps/scrumptious)
-- 🌱 I’m currently learning **C** for fun by reading [``The C Programming Language``](https://en.wikipedia.org/wiki/The_C_Programming_Language) by K&R💡 and completing all exercises. [See repo.](https://github.com/bsheps/c-programming-lanuage-2nd-edition)
+- 🔭 check me out at: https://bsheps.com
+- 🌱 I’m currently enjoying reading through [Refactoring](https://martinfowler.com/books/refactoring.html#:~:text=Refactoring%20is%20a%20controlled%20technique,small%20to%20be%20worth%20doing%22.) by Martin Fowler and [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) by CLRS
 
 <!--
 **bsheps/bsheps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
